@@ -1,0 +1,13 @@
+  <!-- <?php
+                                // if($row['status']==1){
+                                //     ?>
+                                //  <a href="?id=<?=//$row['id'];?>&type=deactive">
+                                //  <label class="badge badge-primary">Active</label>
+                                //  <?php
+                                // }else{
+                                //     ?>
+                                //  <a href="?id=<?=//$row['id'];?>&type=active">
+                                //  <label class="badge badge-info">Deactive</label>
+                                //  <?php
+                                // }
+                                ?> -->
